@@ -47,6 +47,7 @@ go run functions.go
 # ✨ Highlights
 
 Here’s what each folder demonstrates:
+
     - ArrayHash – Using arrays and basic hashing logic
     - BinarySearchTree – Implementing and traversing a binary search tree
     - Classes – Structs in Go (Go’s way of defining “classes”)
