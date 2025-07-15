@@ -41,8 +41,10 @@ Each folder contains a standalone example with its own .go file.
 # 🚀 Getting Started
 Install Go (v1.22 or newer recommended).
 
+```
 cd Functions
 go run functions.go
+```
 
 # ✨ Highlights
 
